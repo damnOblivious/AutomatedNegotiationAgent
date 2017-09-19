@@ -1,0 +1,42 @@
+Starting negotiation session.
+Round 1
+  Turn 1: Party 1       (Offer: Bid[Food: Handmade Food, Drinks: Catering, Location: Your Dorm, Invitations: Custom, Handmade, Music: MP3, Cleanup: Specialized Materials, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Food: Handmade Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Special Equiment, ])
+  Turn 4: Party 4       (Offer: Bid[Food: Handmade Food, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Custom, Handmade, Music: DJ, Cleanup: Water and Soap, ])
+Round 2
+  Turn 1: Party 1       (Offer: Bid[Food: Handmade Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Specialized Materials, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Accept)
+  Turn 4: Party 4       (Offer: Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Your Dorm, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ])
+Round 3
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Food: Handmade Food, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Photo, Music: MP3, Cleanup: Special Equiment, ])
+  Turn 4: Party 4       (Offer: Bid[Food: Finger-Food, Drinks: Catering, Location: Your Dorm, Invitations: Custom, Handmade, Music: Band, Cleanup: Hired Help, ])
+Round 4
+  Turn 1: Party 1       (Offer: Bid[Food: Catering, Drinks: Beer Only, Location: Your Dorm, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Accept)
+  Turn 4: Party 4       (Offer: Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Specialized Materials, ])
+Round 5
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Accept)
+Found an agreement: Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Specialized Materials, ]
+Finished negotiation session in 0.045s
+Time (s):		0.045355922
+Rounds:		5
+Agreement?:		Yes
+Discounted?:		No
+4
+Min. utility:		0.57512
+Max. utility:		0.76750
+Distance to pareto:	0.17759
+Distance to Nash:	0.32884
+Social welfare:		2.56240
+Agent utility:		0.76750 (Party 1)
+Agent utility:		0.57512 (Party 2)
+Agent utility:		0.57692 (Party 3)
+Agent utility:		0.64286 (Party 4)
+

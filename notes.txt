@@ -1,0 +1,4 @@
+1 discount factor - use , required or not ? Required
+2 one-one competition or multi-party. Multi party
+3 multiple sessions with access to history? Yes
+4 just discrete? or real and int also possible? Discrete

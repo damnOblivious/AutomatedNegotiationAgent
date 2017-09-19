@@ -1,0 +1,7 @@
+<a>
+<NegotiationOutcome currentTime="2017-09-05 01:10:12" timeOfAgreement="0.003126247133333333" bids="20" domain="etc/templates/anac/y2013/SmartPhone/SmartPhone.xml" lastAction="(Accept)" runNumber="0" finalOutcome="Bid[Maker: Samsung, Screen Size: 5.5, Color: White, Carrier: RelianceJio, OS: iOS,  Budget: 15000 INR, ]" errors="" startingAgent="A"> 
+<resultsOfAgent agent="A" agentName="Simple Tit for Tat PN" discount="0.95" agentClass="agents.SimpleTitForTatPN" utilspace="etc/templates/anac/y2013/SmartPhone/SmartPhone_util3.xml" Opponent-agentName="Simple Tit for Tat PN" Opponent-agentClass="agents.SimpleTitForTatPN" Opponent-utilspace="etc/templates/anac/y2013/SmartPhone/SmartPhone_util4.xml" finalUtility="0.817461639566644" discountedUtility="0.8173305655943139" bestAcceptableBid="0.817461639566644" bestDiscountedAccepableBid="0.003123233461111111" maxUtility="1.0" normalizedUtility="0.817461639566644" AcceptedBy="agentA"> 
+</resultsOfAgent> 
+<resultsOfAgent agent="B" agentName="Simple Tit for Tat PN" discount="0.95" agentClass="agents.SimpleTitForTatPN" utilspace="etc/templates/anac/y2013/SmartPhone/SmartPhone_util4.xml" Opponent-agentName="Simple Tit for Tat PN" Opponent-agentClass="agents.SimpleTitForTatPN" Opponent-utilspace="etc/templates/anac/y2013/SmartPhone/SmartPhone_util3.xml" finalUtility="0.9733490557965179" discountedUtility="0.9731929864214771" bestAcceptableBid="0.0" bestDiscountedAccepableBid="0.0" maxUtility="1.0" normalizedUtility="0.9733490557965179" AcceptedBy="agentA"> 
+</resultsOfAgent> 
+</NegotiationOutcome> 

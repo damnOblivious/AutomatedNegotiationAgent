@@ -1,0 +1,668 @@
+Starting negotiation session.
+Round 1
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 3.5, Color: Red, Carrier: Idea, OS: iOS,  Budget: 45000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.0, Color: Blue, Carrier: Airtel, OS: Android,  Budget: 55000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 3.5, Color: White, Carrier: RelianceJio, OS: BlackBerry,  Budget: 40000 INR, ])
+Round 2
+  Turn 1: Party 1       (Offer: Bid[Maker: Apple, Screen Size: 5.5, Color: Red, Carrier: Airtel, OS: iOS,  Budget: 35000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: Blue, Carrier: Airtel, OS: iOS,  Budget: 20000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.5, Color: White, Carrier: Airtel, OS: Android,  Budget: 15000 INR, ])
+Round 3
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.0, Color: Black, Carrier: Idea, OS: BlackBerry,  Budget: 60000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 4.5, Color: Black, Carrier: RelianceJio, OS: Android,  Budget: 30000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.0, Color: White, Carrier: Airtel, OS: Android,  Budget: 50000 INR, ])
+Round 4
+  Turn 1: Party 1       (Offer: Bid[Maker: Samsung, Screen Size: 4.0, Color: Black, Carrier: Vodafone, OS: WindowsMobile,  Budget: 15000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 5.5, Color: Black, Carrier: Idea, OS: Android,  Budget: 45000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 3.5, Color: Silver, Carrier: Idea, OS: BlackBerry,  Budget: 25000 INR, ])
+Round 5
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.0, Color: Blue, Carrier: Airtel, OS: Android,  Budget: 50000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: White, Carrier: Vodafone, OS: BlackBerry,  Budget: 50000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: Black, Carrier: Airtel, OS: BlackBerry,  Budget: 45000 INR, ])
+Round 6
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.0, Color: Blue, Carrier: Airtel, OS: Android,  Budget: 50000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 4.5, Color: Red, Carrier: RelianceJio, OS: BlackBerry,  Budget: 55000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 5.0, Color: Silver, Carrier: Vodafone, OS: WindowsMobile,  Budget: 15000 INR, ])
+Round 7
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 5.0, Color: Red, Carrier: Airtel, OS: WindowsMobile,  Budget: 55000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 5.0, Color: Black, Carrier: Idea, OS: WindowsMobile,  Budget: 30000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 4.5, Color: Red, Carrier: Vodafone, OS: Android,  Budget: 30000 INR, ])
+Round 8
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 3.5, Color: Blue, Carrier: RelianceJio, OS: BlackBerry,  Budget: 50000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 4.0, Color: White, Carrier: Vodafone, OS: Android,  Budget: 15000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 4.0, Color: White, Carrier: Airtel, OS: WindowsMobile,  Budget: 50000 INR, ])
+Round 9
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 5.5, Color: White, Carrier: Airtel, OS: WindowsMobile,  Budget: 55000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 3.5, Color: Silver, Carrier: Idea, OS: iOS,  Budget: 25000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 4.5, Color: White, Carrier: Vodafone, OS: iOS,  Budget: 40000 INR, ])
+Round 10
+  Turn 1: Party 1       (Offer: Bid[Maker: Samsung, Screen Size: 4.0, Color: White, Carrier: RelianceJio, OS: iOS,  Budget: 40000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Sony, Screen Size: 5.0, Color: Blue, Carrier: Idea, OS: WindowsMobile,  Budget: 40000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: HTC, Screen Size: 4.0, Color: Blue, Carrier: Vodafone, OS: iOS,  Budget: 25000 INR, ])
+Round 11
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 3.5, Color: Red, Carrier: Vodafone, OS: Android,  Budget: 60000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 4.0, Color: Red, Carrier: Vodafone, OS: Android,  Budget: 55000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 4.5, Color: White, Carrier: RelianceJio, OS: iOS,  Budget: 60000 INR, ])
+Round 12
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 4.5, Color: Blue, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 60000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 4.5, Color: Silver, Carrier: Vodafone, OS: iOS,  Budget: 50000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: HTC, Screen Size: 5.0, Color: White, Carrier: Idea, OS: iOS,  Budget: 30000 INR, ])
+Round 13
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.5, Color: Red, Carrier: Vodafone, OS: iOS,  Budget: 55000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 4.0, Color: Black, Carrier: Airtel, OS: WindowsMobile,  Budget: 45000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 5.5, Color: Blue, Carrier: Airtel, OS: WindowsMobile,  Budget: 50000 INR, ])
+Round 14
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.5, Color: Red, Carrier: Airtel, OS: Android,  Budget: 35000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: Red, Carrier: Idea, OS: Android,  Budget: 20000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 4.0, Color: Blue, Carrier: Airtel, OS: iOS,  Budget: 30000 INR, ])
+Round 15
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.0, Color: Silver, Carrier: Airtel, OS: BlackBerry,  Budget: 35000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 4.5, Color: Black, Carrier: Airtel, OS: BlackBerry,  Budget: 30000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 3.5, Color: Black, Carrier: Airtel, OS: Android,  Budget: 35000 INR, ])
+Round 16
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 3.5, Color: Silver, Carrier: Airtel, OS: iOS,  Budget: 30000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 5.0, Color: White, Carrier: Vodafone, OS: iOS,  Budget: 20000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 4.0, Color: White, Carrier: Idea, OS: iOS,  Budget: 50000 INR, ])
+Round 17
+  Turn 1: Party 1       (Offer: Bid[Maker: Apple, Screen Size: 3.5, Color: Blue, Carrier: Idea, OS: BlackBerry,  Budget: 40000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.5, Color: Blue, Carrier: RelianceJio, OS: iOS,  Budget: 55000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Samsung, Screen Size: 4.0, Color: Silver, Carrier: RelianceJio, OS: Android,  Budget: 25000 INR, ])
+Round 18
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 4.5, Color: Blue, Carrier: Airtel, OS: iOS,  Budget: 30000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: Silver, Carrier: Idea, OS: BlackBerry,  Budget: 60000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: HTC, Screen Size: 4.0, Color: Black, Carrier: Idea, OS: BlackBerry,  Budget: 60000 INR, ])
+Round 19
+  Turn 1: Party 1       (Offer: Bid[Maker: Samsung, Screen Size: 3.5, Color: Silver, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 45000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 3.5, Color: White, Carrier: Airtel, OS: Android,  Budget: 60000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 5.5, Color: Blue, Carrier: Vodafone, OS: WindowsMobile,  Budget: 45000 INR, ])
+Round 20
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 3.5, Color: Silver, Carrier: Airtel, OS: WindowsMobile,  Budget: 25000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 5.0, Color: Silver, Carrier: Idea, OS: WindowsMobile,  Budget: 45000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 5.5, Color: Silver, Carrier: Vodafone, OS: BlackBerry,  Budget: 15000 INR, ])
+Round 21
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 5.5, Color: Silver, Carrier: Vodafone, OS: Android,  Budget: 40000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 5.5, Color: Black, Carrier: Idea, OS: Android,  Budget: 30000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 4.5, Color: Blue, Carrier: RelianceJio, OS: Android,  Budget: 55000 INR, ])
+Round 22
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 3.5, Color: White, Carrier: RelianceJio, OS: Android,  Budget: 15000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 5.5, Color: White, Carrier: Idea, OS: iOS,  Budget: 25000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: Blue, Carrier: RelianceJio, OS: BlackBerry,  Budget: 55000 INR, ])
+Round 23
+  Turn 1: Party 1       (Offer: Bid[Maker: Apple, Screen Size: 5.5, Color: White, Carrier: RelianceJio, OS: BlackBerry,  Budget: 35000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 3.5, Color: White, Carrier: Idea, OS: WindowsMobile,  Budget: 15000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 5.5, Color: Black, Carrier: Vodafone, OS: iOS,  Budget: 30000 INR, ])
+Round 24
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.0, Color: Blue, Carrier: Airtel, OS: BlackBerry,  Budget: 30000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 5.5, Color: White, Carrier: Airtel, OS: iOS,  Budget: 55000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Samsung, Screen Size: 3.5, Color: Blue, Carrier: Airtel, OS: Android,  Budget: 15000 INR, ])
+Round 25
+  Turn 1: Party 1       (Offer: Bid[Maker: Samsung, Screen Size: 3.5, Color: Black, Carrier: Airtel, OS: BlackBerry,  Budget: 35000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 4.5, Color: Silver, Carrier: RelianceJio, OS: Android,  Budget: 40000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: HTC, Screen Size: 5.0, Color: Silver, Carrier: Airtel, OS: WindowsMobile,  Budget: 55000 INR, ])
+Round 26
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 5.5, Color: Blue, Carrier: Airtel, OS: WindowsMobile,  Budget: 40000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 4.5, Color: Black, Carrier: Airtel, OS: WindowsMobile,  Budget: 20000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 3.5, Color: Black, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 15000 INR, ])
+Round 27
+  Turn 1: Party 1       (Offer: Bid[Maker: Apple, Screen Size: 4.0, Color: Blue, Carrier: Airtel, OS: Android,  Budget: 45000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 4.5, Color: Blue, Carrier: Vodafone, OS: Android,  Budget: 55000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.0, Color: Black, Carrier: Airtel, OS: WindowsMobile,  Budget: 50000 INR, ])
+Round 28
+  Turn 1: Party 1       (Offer: Bid[Maker: Apple, Screen Size: 4.5, Color: Red, Carrier: Idea, OS: iOS,  Budget: 15000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 3.5, Color: White, Carrier: Vodafone, OS: BlackBerry,  Budget: 15000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 4.5, Color: Black, Carrier: RelianceJio, OS: Android,  Budget: 45000 INR, ])
+Round 29
+  Turn 1: Party 1       (Offer: Bid[Maker: Apple, Screen Size: 5.0, Color: Black, Carrier: Airtel, OS: WindowsMobile,  Budget: 20000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 5.5, Color: Silver, Carrier: Idea, OS: WindowsMobile,  Budget: 60000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 4.5, Color: Blue, Carrier: Idea, OS: Android,  Budget: 40000 INR, ])
+Round 30
+  Turn 1: Party 1       (Offer: Bid[Maker: Samsung, Screen Size: 4.0, Color: White, Carrier: Vodafone, OS: WindowsMobile,  Budget: 40000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 3.5, Color: Silver, Carrier: Idea, OS: Android,  Budget: 55000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 3.5, Color: Red, Carrier: Vodafone, OS: BlackBerry,  Budget: 20000 INR, ])
+Round 31
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 4.5, Color: White, Carrier: Airtel, OS: Android,  Budget: 50000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 4.0, Color: Blue, Carrier: Airtel, OS: iOS,  Budget: 55000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 4.0, Color: Blue, Carrier: Vodafone, OS: BlackBerry,  Budget: 60000 INR, ])
+Round 32
+  Turn 1: Party 1       (Offer: Bid[Maker: Apple, Screen Size: 5.5, Color: White, Carrier: RelianceJio, OS: iOS,  Budget: 50000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 5.5, Color: Blue, Carrier: Airtel, OS: Android,  Budget: 50000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.5, Color: White, Carrier: Airtel, OS: BlackBerry,  Budget: 15000 INR, ])
+Round 33
+  Turn 1: Party 1       (Offer: Bid[Maker: Apple, Screen Size: 3.5, Color: Blue, Carrier: Vodafone, OS: BlackBerry,  Budget: 45000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 4.0, Color: White, Carrier: Vodafone, OS: WindowsMobile,  Budget: 50000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Samsung, Screen Size: 4.5, Color: Black, Carrier: Airtel, OS: iOS,  Budget: 50000 INR, ])
+Round 34
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 5.0, Color: Silver, Carrier: Airtel, OS: BlackBerry,  Budget: 35000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: Blue, Carrier: Vodafone, OS: iOS,  Budget: 50000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.0, Color: Black, Carrier: RelianceJio, OS: BlackBerry,  Budget: 40000 INR, ])
+Round 35
+  Turn 1: Party 1       (Offer: Bid[Maker: Apple, Screen Size: 5.0, Color: Silver, Carrier: RelianceJio, OS: Android,  Budget: 25000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 4.0, Color: Blue, Carrier: Vodafone, OS: Android,  Budget: 60000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 4.0, Color: Red, Carrier: Idea, OS: WindowsMobile,  Budget: 40000 INR, ])
+Round 36
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 5.0, Color: Silver, Carrier: Airtel, OS: BlackBerry,  Budget: 15000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 3.5, Color: White, Carrier: Airtel, OS: WindowsMobile,  Budget: 20000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 3.5, Color: Black, Carrier: Idea, OS: Android,  Budget: 45000 INR, ])
+Round 37
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 4.5, Color: Silver, Carrier: Idea, OS: iOS,  Budget: 25000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 4.0, Color: Black, Carrier: RelianceJio, OS: BlackBerry,  Budget: 20000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: HTC, Screen Size: 4.5, Color: Blue, Carrier: Airtel, OS: BlackBerry,  Budget: 30000 INR, ])
+Round 38
+  Turn 1: Party 1       (Offer: Bid[Maker: Samsung, Screen Size: 5.0, Color: Blue, Carrier: Airtel, OS: BlackBerry,  Budget: 55000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 3.5, Color: Black, Carrier: Idea, OS: WindowsMobile,  Budget: 15000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.5, Color: Blue, Carrier: Airtel, OS: iOS,  Budget: 20000 INR, ])
+Round 39
+  Turn 1: Party 1       (Offer: Bid[Maker: Apple, Screen Size: 3.5, Color: Silver, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 55000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 4.0, Color: Black, Carrier: Vodafone, OS: BlackBerry,  Budget: 30000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 4.0, Color: Silver, Carrier: Idea, OS: Android,  Budget: 30000 INR, ])
+Round 40
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 4.0, Color: White, Carrier: Vodafone, OS: Android,  Budget: 20000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 4.0, Color: Silver, Carrier: RelianceJio, OS: iOS,  Budget: 15000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 3.5, Color: Blue, Carrier: Idea, OS: WindowsMobile,  Budget: 55000 INR, ])
+Round 41
+  Turn 1: Party 1       (Offer: Bid[Maker: Samsung, Screen Size: 5.5, Color: Black, Carrier: Airtel, OS: Android,  Budget: 15000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 4.5, Color: White, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 30000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 5.0, Color: Black, Carrier: Airtel, OS: Android,  Budget: 40000 INR, ])
+Round 42
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 4.0, Color: Black, Carrier: Vodafone, OS: iOS,  Budget: 60000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Sony, Screen Size: 5.0, Color: Blue, Carrier: RelianceJio, OS: iOS,  Budget: 25000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 4.0, Color: Red, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 35000 INR, ])
+Round 43
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 3.5, Color: Blue, Carrier: Idea, OS: BlackBerry,  Budget: 40000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: Silver, Carrier: Idea, OS: BlackBerry,  Budget: 55000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 4.5, Color: Silver, Carrier: Airtel, OS: WindowsMobile,  Budget: 25000 INR, ])
+Round 44
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 3.5, Color: Black, Carrier: RelianceJio, OS: Android,  Budget: 55000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 4.5, Color: Red, Carrier: Idea, OS: Android,  Budget: 20000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Samsung, Screen Size: 5.5, Color: White, Carrier: RelianceJio, OS: Android,  Budget: 60000 INR, ])
+Round 45
+  Turn 1: Party 1       (Offer: Bid[Maker: Apple, Screen Size: 5.0, Color: White, Carrier: RelianceJio, OS: Android,  Budget: 20000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Sony, Screen Size: 5.0, Color: Red, Carrier: Vodafone, OS: WindowsMobile,  Budget: 35000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 5.5, Color: Silver, Carrier: Vodafone, OS: BlackBerry,  Budget: 45000 INR, ])
+Round 46
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: White, Carrier: RelianceJio, OS: iOS,  Budget: 60000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 5.0, Color: White, Carrier: Vodafone, OS: iOS,  Budget: 45000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 3.5, Color: Black, Carrier: Idea, OS: iOS,  Budget: 20000 INR, ])
+Round 47
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 3.5, Color: Blue, Carrier: Airtel, OS: Android,  Budget: 55000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 5.5, Color: Red, Carrier: Airtel, OS: WindowsMobile,  Budget: 20000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 4.0, Color: Red, Carrier: RelianceJio, OS: Android,  Budget: 60000 INR, ])
+Round 48
+  Turn 1: Party 1       (Offer: Bid[Maker: Apple, Screen Size: 4.5, Color: Red, Carrier: Airtel, OS: BlackBerry,  Budget: 60000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 3.5, Color: Black, Carrier: Airtel, OS: iOS,  Budget: 30000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Samsung, Screen Size: 4.0, Color: Silver, Carrier: Vodafone, OS: iOS,  Budget: 50000 INR, ])
+Round 49
+  Turn 1: Party 1       (Offer: Bid[Maker: Apple, Screen Size: 4.5, Color: Silver, Carrier: RelianceJio, OS: BlackBerry,  Budget: 25000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 4.0, Color: Blue, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 25000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 4.5, Color: Black, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 60000 INR, ])
+Round 50
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 4.5, Color: Silver, Carrier: Airtel, OS: Android,  Budget: 25000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Sony, Screen Size: 5.5, Color: Red, Carrier: Airtel, OS: iOS,  Budget: 40000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: HTC, Screen Size: 5.5, Color: Blue, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 30000 INR, ])
+Round 51
+  Turn 1: Party 1       (Offer: Bid[Maker: Apple, Screen Size: 4.0, Color: Black, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 25000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 3.5, Color: Blue, Carrier: Idea, OS: iOS,  Budget: 20000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 3.5, Color: Silver, Carrier: Airtel, OS: WindowsMobile,  Budget: 20000 INR, ])
+Round 52
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 4.0, Color: Red, Carrier: Vodafone, OS: Android,  Budget: 60000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 5.0, Color: Black, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 60000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 5.0, Color: Red, Carrier: Idea, OS: WindowsMobile,  Budget: 40000 INR, ])
+Round 53
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 4.5, Color: Silver, Carrier: RelianceJio, OS: iOS,  Budget: 40000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 4.5, Color: Black, Carrier: RelianceJio, OS: iOS,  Budget: 45000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 4.5, Color: White, Carrier: Vodafone, OS: iOS,  Budget: 45000 INR, ])
+Round 54
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 4.5, Color: Black, Carrier: RelianceJio, OS: BlackBerry,  Budget: 20000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.0, Color: White, Carrier: Idea, OS: Android,  Budget: 45000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 4.0, Color: Silver, Carrier: Idea, OS: WindowsMobile,  Budget: 45000 INR, ])
+Round 55
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 5.0, Color: Black, Carrier: Airtel, OS: Android,  Budget: 50000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 4.0, Color: Red, Carrier: Airtel, OS: BlackBerry,  Budget: 20000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: Silver, Carrier: RelianceJio, OS: iOS,  Budget: 40000 INR, ])
+Round 56
+  Turn 1: Party 1       (Offer: Bid[Maker: Apple, Screen Size: 4.0, Color: White, Carrier: RelianceJio, OS: BlackBerry,  Budget: 55000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.0, Color: Red, Carrier: RelianceJio, OS: Android,  Budget: 40000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 3.5, Color: Red, Carrier: Airtel, OS: Android,  Budget: 20000 INR, ])
+Round 57
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 4.0, Color: Black, Carrier: Airtel, OS: Android,  Budget: 55000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 5.5, Color: Red, Carrier: Airtel, OS: BlackBerry,  Budget: 25000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 4.5, Color: Red, Carrier: Airtel, OS: BlackBerry,  Budget: 45000 INR, ])
+Round 58
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 4.5, Color: Black, Carrier: Idea, OS: iOS,  Budget: 30000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 4.5, Color: Silver, Carrier: Vodafone, OS: BlackBerry,  Budget: 30000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: HTC, Screen Size: 4.5, Color: White, Carrier: Idea, OS: WindowsMobile,  Budget: 35000 INR, ])
+Round 59
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 5.0, Color: Red, Carrier: RelianceJio, OS: Android,  Budget: 60000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 3.5, Color: Silver, Carrier: RelianceJio, OS: Android,  Budget: 15000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 5.5, Color: Silver, Carrier: Vodafone, OS: iOS,  Budget: 25000 INR, ])
+Round 60
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.5, Color: Red, Carrier: Idea, OS: BlackBerry,  Budget: 40000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 4.0, Color: Red, Carrier: Idea, OS: BlackBerry,  Budget: 35000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.5, Color: Blue, Carrier: Airtel, OS: Android,  Budget: 25000 INR, ])
+Round 61
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 4.5, Color: Blue, Carrier: Vodafone, OS: iOS,  Budget: 25000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 3.5, Color: Red, Carrier: Vodafone, OS: BlackBerry,  Budget: 50000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 4.5, Color: Silver, Carrier: Airtel, OS: Android,  Budget: 55000 INR, ])
+Round 62
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.0, Color: Silver, Carrier: Idea, OS: Android,  Budget: 20000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 3.5, Color: Silver, Carrier: Airtel, OS: WindowsMobile,  Budget: 25000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: HTC, Screen Size: 5.5, Color: Black, Carrier: Airtel, OS: BlackBerry,  Budget: 45000 INR, ])
+Round 63
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 4.0, Color: White, Carrier: Idea, OS: Android,  Budget: 35000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.0, Color: White, Carrier: RelianceJio, OS: BlackBerry,  Budget: 15000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Samsung, Screen Size: 5.5, Color: Black, Carrier: Vodafone, OS: Android,  Budget: 40000 INR, ])
+Round 64
+  Turn 1: Party 1       (Offer: Bid[Maker: Apple, Screen Size: 4.5, Color: Blue, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 60000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Sony, Screen Size: 4.0, Color: Silver, Carrier: RelianceJio, OS: Android,  Budget: 30000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: Blue, Carrier: RelianceJio, OS: Android,  Budget: 35000 INR, ])
+Round 65
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 3.5, Color: Black, Carrier: Airtel, OS: BlackBerry,  Budget: 20000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 4.0, Color: Silver, Carrier: Idea, OS: iOS,  Budget: 15000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: HTC, Screen Size: 4.0, Color: Red, Carrier: Vodafone, OS: Android,  Budget: 20000 INR, ])
+Round 66
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 4.5, Color: Black, Carrier: Vodafone, OS: WindowsMobile,  Budget: 50000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.0, Color: Silver, Carrier: Vodafone, OS: WindowsMobile,  Budget: 15000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 3.5, Color: Black, Carrier: Vodafone, OS: WindowsMobile,  Budget: 45000 INR, ])
+Round 67
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 4.5, Color: Silver, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 25000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 4.0, Color: Silver, Carrier: Idea, OS: BlackBerry,  Budget: 15000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 3.5, Color: White, Carrier: Vodafone, OS: WindowsMobile,  Budget: 60000 INR, ])
+Round 68
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 5.5, Color: Silver, Carrier: Vodafone, OS: BlackBerry,  Budget: 30000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 4.0, Color: Blue, Carrier: RelianceJio, OS: BlackBerry,  Budget: 25000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Samsung, Screen Size: 4.5, Color: Black, Carrier: Vodafone, OS: iOS,  Budget: 15000 INR, ])
+Round 69
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 5.5, Color: Blue, Carrier: RelianceJio, OS: Android,  Budget: 15000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 3.5, Color: Silver, Carrier: Vodafone, OS: WindowsMobile,  Budget: 45000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 3.5, Color: Silver, Carrier: RelianceJio, OS: Android,  Budget: 60000 INR, ])
+Round 70
+  Turn 1: Party 1       (Offer: Bid[Maker: Samsung, Screen Size: 5.0, Color: Black, Carrier: RelianceJio, OS: iOS,  Budget: 60000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 5.5, Color: Blue, Carrier: Airtel, OS: iOS,  Budget: 20000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 5.0, Color: Silver, Carrier: Idea, OS: BlackBerry,  Budget: 20000 INR, ])
+Round 71
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 4.0, Color: Silver, Carrier: Vodafone, OS: iOS,  Budget: 15000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 4.0, Color: White, Carrier: Vodafone, OS: iOS,  Budget: 25000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 5.0, Color: Blue, Carrier: Vodafone, OS: WindowsMobile,  Budget: 15000 INR, ])
+Round 72
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 4.5, Color: Red, Carrier: RelianceJio, OS: Android,  Budget: 40000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Sony, Screen Size: 3.5, Color: White, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 55000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.0, Color: Black, Carrier: Airtel, OS: BlackBerry,  Budget: 30000 INR, ])
+Round 73
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 5.0, Color: White, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 60000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.0, Color: White, Carrier: Vodafone, OS: Android,  Budget: 60000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.5, Color: Red, Carrier: Vodafone, OS: iOS,  Budget: 40000 INR, ])
+Round 74
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 4.5, Color: Blue, Carrier: Idea, OS: WindowsMobile,  Budget: 40000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 5.5, Color: White, Carrier: Idea, OS: iOS,  Budget: 40000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Samsung, Screen Size: 3.5, Color: Black, Carrier: RelianceJio, OS: Android,  Budget: 15000 INR, ])
+Round 75
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 5.5, Color: Silver, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 60000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 4.5, Color: Red, Carrier: Airtel, OS: WindowsMobile,  Budget: 40000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 3.5, Color: Red, Carrier: Airtel, OS: Android,  Budget: 25000 INR, ])
+Round 76
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.0, Color: Silver, Carrier: Vodafone, OS: iOS,  Budget: 60000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 3.5, Color: Silver, Carrier: Airtel, OS: BlackBerry,  Budget: 20000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 5.0, Color: Blue, Carrier: Vodafone, OS: Android,  Budget: 50000 INR, ])
+Round 77
+  Turn 1: Party 1       (Offer: Bid[Maker: Samsung, Screen Size: 3.5, Color: Red, Carrier: Airtel, OS: BlackBerry,  Budget: 45000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 4.5, Color: Blue, Carrier: Vodafone, OS: iOS,  Budget: 15000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 5.5, Color: Blue, Carrier: Vodafone, OS: WindowsMobile,  Budget: 55000 INR, ])
+Round 78
+  Turn 1: Party 1       (Offer: Bid[Maker: Apple, Screen Size: 4.5, Color: Blue, Carrier: RelianceJio, OS: Android,  Budget: 55000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Sony, Screen Size: 3.5, Color: Red, Carrier: Vodafone, OS: WindowsMobile,  Budget: 55000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 4.5, Color: Blue, Carrier: Vodafone, OS: WindowsMobile,  Budget: 40000 INR, ])
+Round 79
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 4.5, Color: Blue, Carrier: Airtel, OS: iOS,  Budget: 25000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.5, Color: Red, Carrier: Airtel, OS: BlackBerry,  Budget: 50000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 3.5, Color: Red, Carrier: Airtel, OS: WindowsMobile,  Budget: 40000 INR, ])
+Round 80
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 5.5, Color: Silver, Carrier: Idea, OS: Android,  Budget: 35000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.0, Color: Black, Carrier: Idea, OS: WindowsMobile,  Budget: 55000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 5.5, Color: White, Carrier: Idea, OS: BlackBerry,  Budget: 60000 INR, ])
+Round 81
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 5.0, Color: White, Carrier: Airtel, OS: iOS,  Budget: 25000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.0, Color: Blue, Carrier: Airtel, OS: iOS,  Budget: 30000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 5.5, Color: Blue, Carrier: Idea, OS: BlackBerry,  Budget: 45000 INR, ])
+Round 82
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 4.5, Color: Black, Carrier: Vodafone, OS: WindowsMobile,  Budget: 30000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.0, Color: Silver, Carrier: Vodafone, OS: Android,  Budget: 40000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 5.5, Color: Blue, Carrier: RelianceJio, OS: Android,  Budget: 15000 INR, ])
+Round 83
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 5.0, Color: White, Carrier: Idea, OS: Android,  Budget: 50000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: Black, Carrier: Idea, OS: Android,  Budget: 20000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: HTC, Screen Size: 4.5, Color: Red, Carrier: Idea, OS: Android,  Budget: 15000 INR, ])
+Round 84
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 3.5, Color: Blue, Carrier: Airtel, OS: Android,  Budget: 50000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.5, Color: Black, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 55000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.5, Color: White, Carrier: Idea, OS: WindowsMobile,  Budget: 35000 INR, ])
+Round 85
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 4.0, Color: Blue, Carrier: Idea, OS: Android,  Budget: 15000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.0, Color: Blue, Carrier: Idea, OS: WindowsMobile,  Budget: 20000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 4.0, Color: Red, Carrier: RelianceJio, OS: iOS,  Budget: 50000 INR, ])
+Round 86
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 3.5, Color: Blue, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 30000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 4.5, Color: Red, Carrier: Airtel, OS: BlackBerry,  Budget: 60000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: HTC, Screen Size: 4.5, Color: Blue, Carrier: Airtel, OS: WindowsMobile,  Budget: 20000 INR, ])
+Round 87
+  Turn 1: Party 1       (Offer: Bid[Maker: Samsung, Screen Size: 4.5, Color: Red, Carrier: Idea, OS: WindowsMobile,  Budget: 50000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 4.0, Color: Blue, Carrier: Idea, OS: BlackBerry,  Budget: 15000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 4.0, Color: White, Carrier: RelianceJio, OS: Android,  Budget: 20000 INR, ])
+Round 88
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 4.0, Color: Silver, Carrier: RelianceJio, OS: iOS,  Budget: 30000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 3.5, Color: White, Carrier: Airtel, OS: WindowsMobile,  Budget: 20000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 4.5, Color: Blue, Carrier: Vodafone, OS: iOS,  Budget: 25000 INR, ])
+Round 89
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 5.0, Color: Red, Carrier: Idea, OS: WindowsMobile,  Budget: 40000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 5.0, Color: White, Carrier: Vodafone, OS: WindowsMobile,  Budget: 60000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 5.5, Color: Red, Carrier: Airtel, OS: iOS,  Budget: 60000 INR, ])
+Round 90
+  Turn 1: Party 1       (Offer: Bid[Maker: Samsung, Screen Size: 4.5, Color: Red, Carrier: Idea, OS: BlackBerry,  Budget: 35000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: Silver, Carrier: Idea, OS: Android,  Budget: 35000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 4.5, Color: Silver, Carrier: RelianceJio, OS: iOS,  Budget: 15000 INR, ])
+Round 91
+  Turn 1: Party 1       (Offer: Bid[Maker: Samsung, Screen Size: 3.5, Color: Black, Carrier: Airtel, OS: BlackBerry,  Budget: 20000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.0, Color: Blue, Carrier: Vodafone, OS: iOS,  Budget: 45000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Samsung, Screen Size: 5.0, Color: Silver, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 60000 INR, ])
+Round 92
+  Turn 1: Party 1       (Offer: Bid[Maker: Apple, Screen Size: 4.0, Color: Red, Carrier: Vodafone, OS: BlackBerry,  Budget: 30000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 3.5, Color: Black, Carrier: Vodafone, OS: WindowsMobile,  Budget: 15000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 5.5, Color: Red, Carrier: Vodafone, OS: BlackBerry,  Budget: 60000 INR, ])
+Round 93
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 4.5, Color: White, Carrier: Airtel, OS: WindowsMobile,  Budget: 25000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 4.5, Color: Blue, Carrier: RelianceJio, OS: iOS,  Budget: 30000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 5.0, Color: Red, Carrier: RelianceJio, OS: BlackBerry,  Budget: 15000 INR, ])
+Round 94
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 3.5, Color: Red, Carrier: Idea, OS: Android,  Budget: 20000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 3.5, Color: Blue, Carrier: RelianceJio, OS: Android,  Budget: 45000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Samsung, Screen Size: 3.5, Color: Black, Carrier: Vodafone, OS: iOS,  Budget: 25000 INR, ])
+Round 95
+  Turn 1: Party 1       (Offer: Bid[Maker: Samsung, Screen Size: 3.5, Color: White, Carrier: Vodafone, OS: WindowsMobile,  Budget: 35000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 4.5, Color: Blue, Carrier: Idea, OS: Android,  Budget: 15000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: White, Carrier: Vodafone, OS: BlackBerry,  Budget: 45000 INR, ])
+Round 96
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 5.0, Color: White, Carrier: Vodafone, OS: Android,  Budget: 30000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.5, Color: Black, Carrier: Airtel, OS: Android,  Budget: 55000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 5.0, Color: White, Carrier: RelianceJio, OS: Android,  Budget: 45000 INR, ])
+Round 97
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 3.5, Color: Red, Carrier: Idea, OS: BlackBerry,  Budget: 40000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Sony, Screen Size: 3.5, Color: Blue, Carrier: Airtel, OS: WindowsMobile,  Budget: 45000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Samsung, Screen Size: 3.5, Color: White, Carrier: Vodafone, OS: Android,  Budget: 25000 INR, ])
+Round 98
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 5.0, Color: White, Carrier: Idea, OS: iOS,  Budget: 50000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 4.5, Color: Silver, Carrier: Vodafone, OS: BlackBerry,  Budget: 50000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: HTC, Screen Size: 4.0, Color: Red, Carrier: Airtel, OS: BlackBerry,  Budget: 40000 INR, ])
+Round 99
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 3.5, Color: Red, Carrier: Idea, OS: WindowsMobile,  Budget: 25000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.5, Color: White, Carrier: Airtel, OS: Android,  Budget: 60000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: HTC, Screen Size: 4.0, Color: Red, Carrier: Idea, OS: Android,  Budget: 55000 INR, ])
+Round 100
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 4.5, Color: Silver, Carrier: Idea, OS: iOS,  Budget: 25000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Sony, Screen Size: 5.5, Color: Silver, Carrier: Airtel, OS: Android,  Budget: 50000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.5, Color: White, Carrier: Vodafone, OS: WindowsMobile,  Budget: 20000 INR, ])
+Round 101
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 3.5, Color: Black, Carrier: Idea, OS: WindowsMobile,  Budget: 40000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 5.0, Color: Silver, Carrier: Airtel, OS: iOS,  Budget: 45000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: HTC, Screen Size: 5.0, Color: Blue, Carrier: RelianceJio, OS: Android,  Budget: 50000 INR, ])
+Round 102
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 3.5, Color: White, Carrier: Airtel, OS: BlackBerry,  Budget: 55000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Sony, Screen Size: 4.5, Color: Black, Carrier: RelianceJio, OS: iOS,  Budget: 30000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 5.5, Color: Red, Carrier: Airtel, OS: WindowsMobile,  Budget: 40000 INR, ])
+Round 103
+  Turn 1: Party 1       (Offer: Bid[Maker: Samsung, Screen Size: 4.0, Color: Black, Carrier: Airtel, OS: BlackBerry,  Budget: 25000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 5.5, Color: White, Carrier: Idea, OS: WindowsMobile,  Budget: 25000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 3.5, Color: Silver, Carrier: Idea, OS: WindowsMobile,  Budget: 30000 INR, ])
+Round 104
+  Turn 1: Party 1       (Offer: Bid[Maker: Samsung, Screen Size: 3.5, Color: Black, Carrier: Vodafone, OS: WindowsMobile,  Budget: 45000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 4.5, Color: Blue, Carrier: Vodafone, OS: iOS,  Budget: 50000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: Red, Carrier: Airtel, OS: BlackBerry,  Budget: 25000 INR, ])
+Round 105
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 3.5, Color: Silver, Carrier: Idea, OS: BlackBerry,  Budget: 60000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 3.5, Color: Black, Carrier: Vodafone, OS: Android,  Budget: 35000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 5.5, Color: Silver, Carrier: Idea, OS: Android,  Budget: 15000 INR, ])
+Round 106
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 3.5, Color: Blue, Carrier: Airtel, OS: Android,  Budget: 50000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 5.5, Color: Silver, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 55000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 5.5, Color: Blue, Carrier: Idea, OS: BlackBerry,  Budget: 50000 INR, ])
+Round 107
+  Turn 1: Party 1       (Offer: Bid[Maker: Samsung, Screen Size: 4.0, Color: Black, Carrier: RelianceJio, OS: Android,  Budget: 25000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 5.0, Color: Red, Carrier: Idea, OS: Android,  Budget: 25000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 4.0, Color: White, Carrier: RelianceJio, OS: iOS,  Budget: 45000 INR, ])
+Round 108
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: Silver, Carrier: RelianceJio, OS: BlackBerry,  Budget: 35000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 4.5, Color: Black, Carrier: Airtel, OS: BlackBerry,  Budget: 45000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 4.0, Color: Silver, Carrier: Idea, OS: WindowsMobile,  Budget: 55000 INR, ])
+Round 109
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 4.5, Color: Red, Carrier: Idea, OS: WindowsMobile,  Budget: 35000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 4.0, Color: Red, Carrier: Vodafone, OS: WindowsMobile,  Budget: 50000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 5.5, Color: Red, Carrier: Airtel, OS: iOS,  Budget: 25000 INR, ])
+Round 110
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 3.5, Color: White, Carrier: Idea, OS: iOS,  Budget: 30000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 4.0, Color: White, Carrier: Idea, OS: BlackBerry,  Budget: 20000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: HTC, Screen Size: 3.5, Color: Blue, Carrier: RelianceJio, OS: iOS,  Budget: 25000 INR, ])
+Round 111
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 5.5, Color: Blue, Carrier: Vodafone, OS: Android,  Budget: 35000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Sony, Screen Size: 4.5, Color: Black, Carrier: Vodafone, OS: WindowsMobile,  Budget: 15000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 4.0, Color: Silver, Carrier: Vodafone, OS: BlackBerry,  Budget: 45000 INR, ])
+Round 112
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 4.0, Color: Blue, Carrier: Airtel, OS: BlackBerry,  Budget: 45000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 4.0, Color: Black, Carrier: Airtel, OS: WindowsMobile,  Budget: 60000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 3.5, Color: Blue, Carrier: Vodafone, OS: BlackBerry,  Budget: 50000 INR, ])
+Round 113
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 5.5, Color: Red, Carrier: RelianceJio, OS: BlackBerry,  Budget: 15000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 4.5, Color: Silver, Carrier: Idea, OS: BlackBerry,  Budget: 25000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 4.0, Color: Red, Carrier: Airtel, OS: Android,  Budget: 15000 INR, ])
+Round 114
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 4.5, Color: Blue, Carrier: Airtel, OS: BlackBerry,  Budget: 15000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 5.5, Color: Red, Carrier: Vodafone, OS: BlackBerry,  Budget: 50000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: White, Carrier: Idea, OS: BlackBerry,  Budget: 15000 INR, ])
+Round 115
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 4.0, Color: Blue, Carrier: Vodafone, OS: Android,  Budget: 25000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.0, Color: Black, Carrier: Idea, OS: Android,  Budget: 45000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: HTC, Screen Size: 3.5, Color: Black, Carrier: Vodafone, OS: iOS,  Budget: 45000 INR, ])
+Round 116
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 5.5, Color: Blue, Carrier: Airtel, OS: BlackBerry,  Budget: 25000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 4.0, Color: Black, Carrier: Idea, OS: Android,  Budget: 15000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 5.5, Color: Black, Carrier: Idea, OS: BlackBerry,  Budget: 20000 INR, ])
+Round 117
+  Turn 1: Party 1       (Offer: Bid[Maker: Apple, Screen Size: 3.5, Color: Silver, Carrier: RelianceJio, OS: iOS,  Budget: 20000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: Red, Carrier: Idea, OS: iOS,  Budget: 60000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.5, Color: Black, Carrier: RelianceJio, OS: iOS,  Budget: 30000 INR, ])
+Round 118
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 5.5, Color: White, Carrier: Airtel, OS: Android,  Budget: 15000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 5.5, Color: White, Carrier: RelianceJio, OS: BlackBerry,  Budget: 15000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 5.0, Color: Red, Carrier: Vodafone, OS: BlackBerry,  Budget: 20000 INR, ])
+Round 119
+  Turn 1: Party 1       (Offer: Bid[Maker: Apple, Screen Size: 5.5, Color: Black, Carrier: Idea, OS: BlackBerry,  Budget: 45000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 4.0, Color: Blue, Carrier: RelianceJio, OS: iOS,  Budget: 35000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Samsung, Screen Size: 4.0, Color: White, Carrier: Airtel, OS: iOS,  Budget: 60000 INR, ])
+Round 120
+  Turn 1: Party 1       (Offer: Bid[Maker: Apple, Screen Size: 3.5, Color: Red, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 35000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 5.0, Color: Red, Carrier: Vodafone, OS: iOS,  Budget: 55000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 4.5, Color: Black, Carrier: Vodafone, OS: BlackBerry,  Budget: 45000 INR, ])
+Round 121
+  Turn 1: Party 1       (Offer: Bid[Maker: Apple, Screen Size: 3.5, Color: White, Carrier: Vodafone, OS: iOS,  Budget: 40000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 3.5, Color: Black, Carrier: Airtel, OS: iOS,  Budget: 20000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Samsung, Screen Size: 5.0, Color: Black, Carrier: RelianceJio, OS: iOS,  Budget: 60000 INR, ])
+Round 122
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 5.0, Color: Silver, Carrier: Vodafone, OS: Android,  Budget: 15000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.5, Color: White, Carrier: Vodafone, OS: iOS,  Budget: 20000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.5, Color: Silver, Carrier: Airtel, OS: Android,  Budget: 50000 INR, ])
+Round 123
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 3.5, Color: Red, Carrier: RelianceJio, OS: BlackBerry,  Budget: 25000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 4.0, Color: Blue, Carrier: Idea, OS: WindowsMobile,  Budget: 20000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 5.0, Color: Silver, Carrier: Vodafone, OS: Android,  Budget: 45000 INR, ])
+Round 124
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 4.0, Color: Red, Carrier: RelianceJio, OS: BlackBerry,  Budget: 40000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Sony, Screen Size: 5.0, Color: Red, Carrier: Idea, OS: Android,  Budget: 40000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Samsung, Screen Size: 4.0, Color: Blue, Carrier: Airtel, OS: WindowsMobile,  Budget: 25000 INR, ])
+Round 125
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 5.0, Color: White, Carrier: Airtel, OS: WindowsMobile,  Budget: 60000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 4.0, Color: Silver, Carrier: RelianceJio, OS: iOS,  Budget: 20000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Samsung, Screen Size: 4.5, Color: White, Carrier: Vodafone, OS: BlackBerry,  Budget: 55000 INR, ])
+Round 126
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 5.5, Color: Red, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 15000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 4.0, Color: Black, Carrier: Vodafone, OS: BlackBerry,  Budget: 40000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 3.5, Color: Red, Carrier: Vodafone, OS: iOS,  Budget: 55000 INR, ])
+Round 127
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 3.5, Color: Blue, Carrier: RelianceJio, OS: Android,  Budget: 20000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.0, Color: Silver, Carrier: Vodafone, OS: BlackBerry,  Budget: 55000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 4.5, Color: Red, Carrier: Idea, OS: WindowsMobile,  Budget: 50000 INR, ])
+Round 128
+  Turn 1: Party 1       (Offer: Bid[Maker: Samsung, Screen Size: 4.0, Color: Silver, Carrier: Vodafone, OS: WindowsMobile,  Budget: 35000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 4.5, Color: Blue, Carrier: Idea, OS: WindowsMobile,  Budget: 30000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 5.5, Color: Red, Carrier: Airtel, OS: BlackBerry,  Budget: 15000 INR, ])
+Round 129
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.5, Color: Red, Carrier: Airtel, OS: WindowsMobile,  Budget: 35000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 5.5, Color: Black, Carrier: Vodafone, OS: WindowsMobile,  Budget: 30000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 4.0, Color: Black, Carrier: Vodafone, OS: Android,  Budget: 35000 INR, ])
+Round 130
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 5.0, Color: Blue, Carrier: Idea, OS: WindowsMobile,  Budget: 55000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 4.5, Color: White, Carrier: Airtel, OS: iOS,  Budget: 35000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 4.0, Color: Black, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 35000 INR, ])
+Round 131
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 4.5, Color: Black, Carrier: Vodafone, OS: WindowsMobile,  Budget: 15000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.0, Color: Black, Carrier: RelianceJio, OS: Android,  Budget: 45000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: HTC, Screen Size: 4.5, Color: Red, Carrier: Vodafone, OS: iOS,  Budget: 20000 INR, ])
+Round 132
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 4.0, Color: Silver, Carrier: Vodafone, OS: iOS,  Budget: 50000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 4.0, Color: Red, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 50000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 5.0, Color: Red, Carrier: Vodafone, OS: BlackBerry,  Budget: 55000 INR, ])
+Round 133
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 5.0, Color: Blue, Carrier: RelianceJio, OS: iOS,  Budget: 55000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Sony, Screen Size: 3.5, Color: Black, Carrier: Idea, OS: Android,  Budget: 55000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: HTC, Screen Size: 4.0, Color: Red, Carrier: RelianceJio, OS: BlackBerry,  Budget: 40000 INR, ])
+Round 134
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 4.5, Color: White, Carrier: Idea, OS: Android,  Budget: 40000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 3.5, Color: Black, Carrier: Vodafone, OS: BlackBerry,  Budget: 55000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.5, Color: Blue, Carrier: Idea, OS: Android,  Budget: 45000 INR, ])
+Round 135
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 3.5, Color: Blue, Carrier: RelianceJio, OS: BlackBerry,  Budget: 40000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 4.5, Color: Blue, Carrier: Idea, OS: WindowsMobile,  Budget: 25000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 3.5, Color: Black, Carrier: Idea, OS: WindowsMobile,  Budget: 30000 INR, ])
+Round 136
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 4.0, Color: Silver, Carrier: Airtel, OS: iOS,  Budget: 55000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 4.0, Color: Blue, Carrier: Idea, OS: WindowsMobile,  Budget: 45000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 5.0, Color: Silver, Carrier: Idea, OS: BlackBerry,  Budget: 60000 INR, ])
+Round 137
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.0, Color: Red, Carrier: Idea, OS: WindowsMobile,  Budget: 15000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 4.5, Color: Black, Carrier: RelianceJio, OS: iOS,  Budget: 50000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 5.5, Color: Black, Carrier: Airtel, OS: Android,  Budget: 60000 INR, ])
+Round 138
+  Turn 1: Party 1       (Offer: Bid[Maker: Samsung, Screen Size: 4.0, Color: Silver, Carrier: Idea, OS: Android,  Budget: 20000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 5.5, Color: Red, Carrier: Idea, OS: iOS,  Budget: 35000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: White, Carrier: Vodafone, OS: BlackBerry,  Budget: 55000 INR, ])
+Round 139
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 3.5, Color: White, Carrier: RelianceJio, OS: iOS,  Budget: 15000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 3.5, Color: Silver, Carrier: Airtel, OS: Android,  Budget: 20000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 4.0, Color: Silver, Carrier: Idea, OS: BlackBerry,  Budget: 20000 INR, ])
+Round 140
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: White, Carrier: Airtel, OS: iOS,  Budget: 45000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 3.5, Color: Black, Carrier: Airtel, OS: BlackBerry,  Budget: 50000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: Blue, Carrier: Airtel, OS: BlackBerry,  Budget: 45000 INR, ])
+Round 141
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.0, Color: Black, Carrier: Vodafone, OS: WindowsMobile,  Budget: 50000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 4.0, Color: White, Carrier: Airtel, OS: WindowsMobile,  Budget: 50000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 5.5, Color: Red, Carrier: Idea, OS: BlackBerry,  Budget: 55000 INR, ])
+Round 142
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 5.0, Color: Blue, Carrier: RelianceJio, OS: iOS,  Budget: 60000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 5.5, Color: Red, Carrier: Vodafone, OS: iOS,  Budget: 40000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 4.0, Color: Red, Carrier: Idea, OS: Android,  Budget: 35000 INR, ])
+Round 143
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 4.5, Color: Blue, Carrier: RelianceJio, OS: BlackBerry,  Budget: 50000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Sony, Screen Size: 5.0, Color: Silver, Carrier: Vodafone, OS: BlackBerry,  Budget: 40000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: HTC, Screen Size: 5.5, Color: Black, Carrier: RelianceJio, OS: Android,  Budget: 20000 INR, ])
+Round 144
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: Silver, Carrier: Airtel, OS: WindowsMobile,  Budget: 40000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: Black, Carrier: Vodafone, OS: iOS,  Budget: 35000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 5.0, Color: Red, Carrier: RelianceJio, OS: BlackBerry,  Budget: 60000 INR, ])
+Round 145
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 5.0, Color: Blue, Carrier: Vodafone, OS: Android,  Budget: 20000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 5.5, Color: Silver, Carrier: Airtel, OS: iOS,  Budget: 45000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Samsung, Screen Size: 4.5, Color: Black, Carrier: Airtel, OS: Android,  Budget: 45000 INR, ])
+Round 146
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 4.0, Color: Black, Carrier: Airtel, OS: Android,  Budget: 60000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 4.5, Color: Black, Carrier: Idea, OS: iOS,  Budget: 30000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Apple, Screen Size: 5.0, Color: Red, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 45000 INR, ])
+Round 147
+  Turn 1: Party 1       (Offer: Bid[Maker: Samsung, Screen Size: 3.5, Color: Black, Carrier: RelianceJio, OS: iOS,  Budget: 40000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 3.5, Color: Red, Carrier: RelianceJio, OS: Android,  Budget: 60000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 5.0, Color: Red, Carrier: Airtel, OS: Android,  Budget: 30000 INR, ])
+Round 148
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 3.5, Color: White, Carrier: Vodafone, OS: BlackBerry,  Budget: 35000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Sony, Screen Size: 3.5, Color: Black, Carrier: Idea, OS: iOS,  Budget: 35000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.0, Color: Silver, Carrier: Airtel, OS: iOS,  Budget: 20000 INR, ])
+Round 149
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: Blue, Carrier: RelianceJio, OS: BlackBerry,  Budget: 30000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Apple, Screen Size: 4.5, Color: White, Carrier: Idea, OS: WindowsMobile,  Budget: 30000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: White, Carrier: Idea, OS: BlackBerry,  Budget: 45000 INR, ])
+Round 150
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 5.0, Color: White, Carrier: Vodafone, OS: iOS,  Budget: 55000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 3.5, Color: White, Carrier: Vodafone, OS: iOS,  Budget: 45000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: HTC, Screen Size: 5.5, Color: White, Carrier: Idea, OS: WindowsMobile,  Budget: 50000 INR, ])
+Round 151
+  Turn 1: Party 1       (Offer: Bid[Maker: Nokia, Screen Size: 5.0, Color: Black, Carrier: Idea, OS: iOS,  Budget: 45000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 4.0, Color: Black, Carrier: Airtel, OS: BlackBerry,  Budget: 30000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 4.5, Color: Black, Carrier: Airtel, OS: BlackBerry,  Budget: 55000 INR, ])
+Round 152
+  Turn 1: Party 1       (Offer: Bid[Maker: Apple, Screen Size: 4.5, Color: Silver, Carrier: Airtel, OS: Android,  Budget: 60000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Sony, Screen Size: 4.0, Color: Black, Carrier: Idea, OS: Android,  Budget: 45000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 5.5, Color: Blue, Carrier: Vodafone, OS: iOS,  Budget: 20000 INR, ])
+Round 153
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 5.5, Color: Blue, Carrier: RelianceJio, OS: Android,  Budget: 25000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.0, Color: Red, Carrier: Idea, OS: WindowsMobile,  Budget: 20000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: HTC, Screen Size: 3.5, Color: Blue, Carrier: RelianceJio, OS: BlackBerry,  Budget: 40000 INR, ])
+Round 154
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 4.0, Color: White, Carrier: Airtel, OS: iOS,  Budget: 25000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 5.5, Color: Silver, Carrier: RelianceJio, OS: Android,  Budget: 15000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 5.5, Color: White, Carrier: Idea, OS: WindowsMobile,  Budget: 40000 INR, ])
+Round 155
+  Turn 1: Party 1       (Offer: Bid[Maker: Samsung, Screen Size: 4.5, Color: Black, Carrier: Airtel, OS: WindowsMobile,  Budget: 50000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 4.0, Color: White, Carrier: Vodafone, OS: BlackBerry,  Budget: 55000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Samsung, Screen Size: 5.0, Color: Silver, Carrier: Vodafone, OS: WindowsMobile,  Budget: 25000 INR, ])
+Round 156
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 4.0, Color: Red, Carrier: Vodafone, OS: Android,  Budget: 50000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 4.5, Color: Red, Carrier: Vodafone, OS: Android,  Budget: 15000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.0, Color: Red, Carrier: RelianceJio, OS: BlackBerry,  Budget: 55000 INR, ])
+Round 157
+  Turn 1: Party 1       (Offer: Bid[Maker: Samsung, Screen Size: 4.5, Color: Black, Carrier: Idea, OS: iOS,  Budget: 40000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Sony, Screen Size: 4.5, Color: White, Carrier: Vodafone, OS: Android,  Budget: 25000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.0, Color: White, Carrier: Airtel, OS: Android,  Budget: 30000 INR, ])
+Round 158
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 5.5, Color: White, Carrier: RelianceJio, OS: BlackBerry,  Budget: 55000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: HTC, Screen Size: 4.5, Color: White, Carrier: Airtel, OS: Android,  Budget: 45000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 5.0, Color: Silver, Carrier: Idea, OS: BlackBerry,  Budget: 60000 INR, ])
+Round 159
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 5.0, Color: Red, Carrier: Airtel, OS: WindowsMobile,  Budget: 15000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: Silver, Carrier: RelianceJio, OS: Android,  Budget: 30000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: Blue, Carrier: Idea, OS: iOS,  Budget: 35000 INR, ])
+Round 160
+  Turn 1: Party 1       (Offer: Bid[Maker: Sony, Screen Size: 4.0, Color: Black, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 60000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: BlackBerry, Screen Size: 4.5, Color: Black, Carrier: Airtel, OS: BlackBerry,  Budget: 25000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: BlackBerry, Screen Size: 3.5, Color: Blue, Carrier: RelianceJio, OS: iOS,  Budget: 30000 INR, ])
+Round 161
+  Turn 1: Party 1       (Offer: Bid[Maker: BlackBerry, Screen Size: 3.5, Color: Black, Carrier: Idea, OS: BlackBerry,  Budget: 35000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Sony, Screen Size: 4.0, Color: Red, Carrier: RelianceJio, OS: Android,  Budget: 55000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Nokia, Screen Size: 5.0, Color: Blue, Carrier: RelianceJio, OS: WindowsMobile,  Budget: 50000 INR, ])
+Round 162
+  Turn 1: Party 1       (Offer: Bid[Maker: HTC, Screen Size: 4.5, Color: Silver, Carrier: Idea, OS: BlackBerry,  Budget: 25000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Samsung, Screen Size: 5.0, Color: Blue, Carrier: Idea, OS: Android,  Budget: 55000 INR, ])
+  Turn 3: Party 3       (Offer: Bid[Maker: Sony, Screen Size: 5.5, Color: Blue, Carrier: Airtel, OS: BlackBerry,  Budget: 30000 INR, ])
+Round 163
+  Turn 1: Party 1       (Accept)
+  Turn 2: Party 2       (Accept)
+Found an agreement: Bid[Maker: Sony, Screen Size: 5.5, Color: Blue, Carrier: Airtel, OS: BlackBerry,  Budget: 30000 INR, ]
+Finished negotiation session in 0.704s
+Time (s):		0.704203872
+Rounds:		163
+Agreement?:		Yes
+Discounted?:		Yes
+3
+Min. utility:		0.55063
+Max. utility:		0.69248
+Distance to pareto:	0.42610
+Distance to Nash:	0.49370
+Social welfare:		1.83205
+Agent utility:		0.58895 (Party 1)
+Agent utility:		0.69248 (Party 2)
+Agent utility:		0.55063 (Party 3)
+

@@ -1,0 +1,30 @@
+Starting negotiation session.
+Round 1
+  Turn 1: Party 1       (Offer: Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Photo, Music: Band, Cleanup: Hired Help, ])
+  Turn 2: Party 2       (Accept)
+  Turn 3: Party 3       (Offer: Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Plain, Music: Band, Cleanup: Hired Help, ])
+  Turn 4: Party 4       (Offer: Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: Band, Cleanup: Hired Help, ])
+Round 2
+  Turn 1: Party 1       (Offer: Bid[Food: Handmade Food, Drinks: Catering, Location: Party Tent, Invitations: Plain, Music: MP3, Cleanup: Hired Help, ])
+  Turn 2: Party 2       (Offer: Bid[Food: Chips and Nuts, Drinks: Catering, Location: Party Room, Invitations: Custom, Handmade, Music: MP3, Cleanup: Specialized Materials, ])
+  Turn 3: Party 3       (Accept)
+  Turn 4: Party 4       (Accept)
+Round 3
+  Turn 1: Party 1       (Accept)
+Found an agreement: Bid[Food: Chips and Nuts, Drinks: Catering, Location: Party Room, Invitations: Custom, Handmade, Music: MP3, Cleanup: Specialized Materials, ]
+Finished negotiation session in 0.064s
+Time (s):		0.063670248
+Rounds:		3
+Agreement?:		Yes
+Discounted?:		No
+4
+Min. utility:		0.34997
+Max. utility:		0.75000
+Distance to pareto:	0.20520
+Distance to Nash:	0.51952
+Social welfare:		2.37442
+Agent utility:		0.75000 (Party 1)
+Agent utility:		0.34997 (Party 2)
+Agent utility:		0.63159 (Party 3)
+Agent utility:		0.64286 (Party 4)
+
