@@ -1,0 +1,66 @@
+Starting negotiation session.
+Round 1
+  Turn 1: Party 1       (Offer: Bid[Pie: a990, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a202, ])
+Round 2
+  Turn 1: Party 1       (Offer: Bid[Pie: a1000, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a712, ])
+Round 3
+  Turn 1: Party 1       (Offer: Bid[Pie: a976, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a384, ])
+Round 4
+  Turn 1: Party 1       (Offer: Bid[Pie: a968, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a484, ])
+Round 5
+  Turn 1: Party 1       (Offer: Bid[Pie: a955, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a291, ])
+Round 6
+  Turn 1: Party 1       (Offer: Bid[Pie: a988, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a87, ])
+Round 7
+  Turn 1: Party 1       (Offer: Bid[Pie: a982, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a689, ])
+Round 8
+  Turn 1: Party 1       (Offer: Bid[Pie: a993, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a71, ])
+Round 9
+  Turn 1: Party 1       (Offer: Bid[Pie: a988, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a282, ])
+Round 10
+  Turn 1: Party 1       (Offer: Bid[Pie: a951, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a36, ])
+Round 11
+  Turn 1: Party 1       (Offer: Bid[Pie: a916, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a731, ])
+Round 12
+  Turn 1: Party 1       (Offer: Bid[Pie: a918, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a328, ])
+Round 13
+  Turn 1: Party 1       (Offer: Bid[Pie: a890, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a463, ])
+Round 14
+  Turn 1: Party 1       (Offer: Bid[Pie: a976, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a711, ])
+Round 15
+  Turn 1: Party 1       (Offer: Bid[Pie: a872, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a563, ])
+Round 16
+  Turn 1: Party 1       (Offer: Bid[Pie: a860, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a857, ])
+Round 17
+  Turn 1: Party 1       (Accept)
+Found an agreement: Bid[Pie: a857, ]
+Finished negotiation session in 0.039s
+Time (s):		0.039024037
+Rounds:		17
+Agreement?:		Yes
+Discounted?:		No
+2
+Min. utility:		0.14300
+Max. utility:		0.85700
+Distance to pareto:	0.00000
+Distance to Nash:	0.50487
+Social welfare:		1.00000
+Agent utility:		0.85700 (Party 1)
+Agent utility:		0.14300 (Party 2)
+

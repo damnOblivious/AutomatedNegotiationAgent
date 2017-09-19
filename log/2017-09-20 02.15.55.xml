@@ -1,0 +1,19 @@
+<a>
+<NegotiationOutcome currentTime="2017-09-20 02:16:07" timeOfAgreement="0.010772693322222223" bids="1" domain="etc/templates/pie/pie_domain.xml" lastAction="(Accept)" runNumber="0" finalOutcome="Bid[Pie: a995, ]" errors="" startingAgent="A"> 
+<resultsOfAgent agent="A" agentName="Dummy Agent" discount="1.0" agentClass="examplepackage.DummyAgent" utilspace="etc/templates/pie/pie_A.xml" Opponent-agentName="Dummy Agent" Opponent-agentClass="examplepackage.DummyAgent" Opponent-utilspace="etc/templates/pie/pie_A.xml" finalUtility="0.995" discountedUtility="0.995" bestAcceptableBid="0.0" bestDiscountedAccepableBid="0.0" maxUtility="1.0" normalizedUtility="0.995" AcceptedBy="agentB"> 
+</resultsOfAgent> 
+<resultsOfAgent agent="B" agentName="Dummy Agent" discount="1.0" agentClass="examplepackage.DummyAgent" utilspace="etc/templates/pie/pie_A.xml" Opponent-agentName="Dummy Agent" Opponent-agentClass="examplepackage.DummyAgent" Opponent-utilspace="etc/templates/pie/pie_A.xml" finalUtility="0.995" discountedUtility="0.995" bestAcceptableBid="0.995" bestDiscountedAccepableBid="0.0056765527722222224" maxUtility="1.0" normalizedUtility="0.995" AcceptedBy="agentB"> 
+</resultsOfAgent> 
+</NegotiationOutcome> 
+<NegotiationOutcome currentTime="2017-09-20 02:19:29" timeOfAgreement="1.0" bids="36" domain="etc/templates/pie/pie_domain.xml" lastAction="(Offer: Bid[Pie: a905, ])" runNumber="0" finalOutcome="Reservation" errors="JudgeTimeout: negotiation was timed out because agent is in loop or failed compiling" startingAgent="A"> 
+<resultsOfAgent agent="A" agentName="Dummy Agent" discount="1.0" agentClass="examplepackage.DummyAgent" utilspace="etc/templates/pie/pie_A.xml" Opponent-agentName="Dummy Agent" Opponent-agentClass="examplepackage.DummyAgent" Opponent-utilspace="etc/templates/pie/pie_B.xml" finalUtility="0.0" discountedUtility="0.0" bestAcceptableBid="0.0" bestDiscountedAccepableBid="0.0" maxUtility="1.0" normalizedUtility="0.0" AcceptedBy=""> 
+</resultsOfAgent> 
+<resultsOfAgent agent="B" agentName="Dummy Agent" discount="1.0" agentClass="examplepackage.DummyAgent" utilspace="etc/templates/pie/pie_B.xml" Opponent-agentName="Dummy Agent" Opponent-agentClass="examplepackage.DummyAgent" Opponent-utilspace="etc/templates/pie/pie_A.xml" finalUtility="0.0" discountedUtility="0.0" bestAcceptableBid="0.0" bestDiscountedAccepableBid="0.0" maxUtility="1.0" normalizedUtility="0.0" AcceptedBy=""> 
+</resultsOfAgent> 
+</NegotiationOutcome> 
+<NegotiationOutcome currentTime="2017-09-20 02:20:27" timeOfAgreement="1.0" bids="29" domain="etc/templates/pie/pie_domain.xml" lastAction="(Offer: Bid[Pie: a87, ])" runNumber="0" finalOutcome="Reservation" errors="JudgeTimeout: negotiation was timed out because agent is in loop or failed compiling" startingAgent="A"> 
+<resultsOfAgent agent="A" agentName="Simple Tit for Tat PN" discount="1.0" agentClass="agents.SimpleTitForTatPN" utilspace="etc/templates/pie/pie_A.xml" Opponent-agentName="Dummy Agent" Opponent-agentClass="examplepackage.DummyAgent" Opponent-utilspace="etc/templates/pie/pie_B.xml" finalUtility="0.0" discountedUtility="0.0" bestAcceptableBid="0.0" bestDiscountedAccepableBid="0.0" maxUtility="1.0" normalizedUtility="0.0" AcceptedBy=""> 
+</resultsOfAgent> 
+<resultsOfAgent agent="B" agentName="Dummy Agent" discount="1.0" agentClass="examplepackage.DummyAgent" utilspace="etc/templates/pie/pie_B.xml" Opponent-agentName="Simple Tit for Tat PN" Opponent-agentClass="agents.SimpleTitForTatPN" Opponent-utilspace="etc/templates/pie/pie_A.xml" finalUtility="0.0" discountedUtility="0.0" bestAcceptableBid="0.0" bestDiscountedAccepableBid="0.0" maxUtility="1.0" normalizedUtility="0.0" AcceptedBy=""> 
+</resultsOfAgent> 
+</NegotiationOutcome> 

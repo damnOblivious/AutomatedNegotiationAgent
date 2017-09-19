@@ -65,10 +65,8 @@ public class DummyAgent extends Agent {
 			if (actionOfPartner instanceof Offer) {
 				Bid partnerBid = ((Offer) actionOfPartner).getBid();
 				double offeredUtilFromOpponent = getUtility(partnerBid);
-				// System.out.println(partnerBid + "--------vaibhav");
-				// get current time
-				double time = timeline.getTime();
 
+				double time = timeline.getTime();
 				if (CURRENT_MIN_BID_UTILITY>MINIMUM_BID_UTILITY)
 					CURRENT_MIN_BID_UTILITY = 1-(time/0.005)*0.01;
 
@@ -178,7 +176,7 @@ public class DummyAgent extends Agent {
 				}
 			}
 			bid = new Bid(utilitySpace.getDomain(), values);
-			
+
 			if (getUtility(bid)>bestUtil)
 				{
 					bestUtil=getUtility(bid);
