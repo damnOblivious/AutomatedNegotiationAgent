@@ -87,6 +87,9 @@
             <partyRepItem protocolClassPath="negotiator.protocol.StackedAlternatingOffersProtocol" description="example party group N" classPath="/home/vaibhav/sem5/mas/Automated-Negotation/multipartyexample/Groupn.class" partyName="Groupn">
                 <properties/>
             </partyRepItem>
+            <partyRepItem protocolClassPath="negotiator.protocol.StackedAlternatingOffersProtocol" description="Group11" classPath="/home/vaibhav/sem5/mas/Automated-Negotation/multipartyexample/Group11.class" partyName="Group11">
+                <properties/>
+            </partyRepItem>
         </partyRepItems>
         <domainRepItem/>
         <protocolRepItem/>

@@ -1,0 +1,905 @@
+Starting negotiation session.
+Round 1
+  Turn 1: Party 1       (Offer: Bid[Pie: a990, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a0, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 2
+  Turn 1: Party 1       (Offer: Bid[Pie: a984, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a2, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 3
+  Turn 1: Party 1       (Offer: Bid[Pie: a985, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a1, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 4
+  Turn 1: Party 1       (Offer: Bid[Pie: a981, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a26, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 5
+  Turn 1: Party 1       (Offer: Bid[Pie: a976, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a1, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 6
+  Turn 1: Party 1       (Offer: Bid[Pie: a993, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a50, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 7
+  Turn 1: Party 1       (Offer: Bid[Pie: a970, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a3, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 8
+  Turn 1: Party 1       (Offer: Bid[Pie: a936, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a39, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 9
+  Turn 1: Party 1       (Offer: Bid[Pie: a927, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a83, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 10
+  Turn 1: Party 1       (Offer: Bid[Pie: a923, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a5, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 11
+  Turn 1: Party 1       (Offer: Bid[Pie: a984, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a36, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 12
+  Turn 1: Party 1       (Offer: Bid[Pie: a949, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a17, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 13
+  Turn 1: Party 1       (Offer: Bid[Pie: a960, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a61, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 14
+  Turn 1: Party 1       (Offer: Bid[Pie: a922, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a5, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 15
+  Turn 1: Party 1       (Offer: Bid[Pie: a994, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a100, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 16
+  Turn 1: Party 1       (Offer: Bid[Pie: a996, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a64, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 17
+  Turn 1: Party 1       (Offer: Bid[Pie: a962, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a18, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 18
+  Turn 1: Party 1       (Offer: Bid[Pie: a956, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a27, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 19
+  Turn 1: Party 1       (Offer: Bid[Pie: a923, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a53, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 20
+  Turn 1: Party 1       (Offer: Bid[Pie: a1000, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a91, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 21
+  Turn 1: Party 1       (Offer: Bid[Pie: a902, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a45, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 22
+  Turn 1: Party 1       (Offer: Bid[Pie: a923, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a30, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 23
+  Turn 1: Party 1       (Offer: Bid[Pie: a929, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a52, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 24
+  Turn 1: Party 1       (Offer: Bid[Pie: a961, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a14, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 25
+  Turn 1: Party 1       (Offer: Bid[Pie: a995, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a28, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 26
+  Turn 1: Party 1       (Offer: Bid[Pie: a986, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a63, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 27
+  Turn 1: Party 1       (Offer: Bid[Pie: a935, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a55, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 28
+  Turn 1: Party 1       (Offer: Bid[Pie: a921, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a93, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 29
+  Turn 1: Party 1       (Offer: Bid[Pie: a959, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a99, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 30
+  Turn 1: Party 1       (Offer: Bid[Pie: a931, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a90, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 31
+  Turn 1: Party 1       (Offer: Bid[Pie: a907, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a18, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 32
+  Turn 1: Party 1       (Offer: Bid[Pie: a952, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a3, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 33
+  Turn 1: Party 1       (Offer: Bid[Pie: a911, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a51, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 34
+  Turn 1: Party 1       (Offer: Bid[Pie: a967, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a0, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 35
+  Turn 1: Party 1       (Offer: Bid[Pie: a971, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a49, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 36
+  Turn 1: Party 1       (Offer: Bid[Pie: a920, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a17, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 37
+  Turn 1: Party 1       (Offer: Bid[Pie: a957, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a63, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 38
+  Turn 1: Party 1       (Offer: Bid[Pie: a920, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a59, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 39
+  Turn 1: Party 1       (Offer: Bid[Pie: a933, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a45, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 40
+  Turn 1: Party 1       (Offer: Bid[Pie: a976, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a26, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 41
+  Turn 1: Party 1       (Offer: Bid[Pie: a969, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a41, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 42
+  Turn 1: Party 1       (Offer: Bid[Pie: a919, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a31, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 43
+  Turn 1: Party 1       (Offer: Bid[Pie: a913, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a47, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 44
+  Turn 1: Party 1       (Offer: Bid[Pie: a980, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a4, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 45
+  Turn 1: Party 1       (Offer: Bid[Pie: a922, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a25, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 46
+  Turn 1: Party 1       (Offer: Bid[Pie: a923, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a79, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 47
+  Turn 1: Party 1       (Offer: Bid[Pie: a971, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a24, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 48
+  Turn 1: Party 1       (Offer: Bid[Pie: a986, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a72, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 49
+  Turn 1: Party 1       (Offer: Bid[Pie: a948, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a40, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 50
+  Turn 1: Party 1       (Offer: Bid[Pie: a903, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a86, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 51
+  Turn 1: Party 1       (Offer: Bid[Pie: a933, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a14, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 52
+  Turn 1: Party 1       (Offer: Bid[Pie: a970, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a43, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 53
+  Turn 1: Party 1       (Offer: Bid[Pie: a960, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a37, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 54
+  Turn 1: Party 1       (Offer: Bid[Pie: a989, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a14, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 55
+  Turn 1: Party 1       (Offer: Bid[Pie: a955, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a4, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 56
+  Turn 1: Party 1       (Offer: Bid[Pie: a918, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a14, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 57
+  Turn 1: Party 1       (Offer: Bid[Pie: a939, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a86, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 58
+  Turn 1: Party 1       (Offer: Bid[Pie: a935, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a63, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 59
+  Turn 1: Party 1       (Offer: Bid[Pie: a996, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a72, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 60
+  Turn 1: Party 1       (Offer: Bid[Pie: a910, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a16, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 61
+  Turn 1: Party 1       (Offer: Bid[Pie: a902, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a50, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 62
+  Turn 1: Party 1       (Offer: Bid[Pie: a939, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a76, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 63
+  Turn 1: Party 1       (Offer: Bid[Pie: a957, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a8, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 64
+  Turn 1: Party 1       (Offer: Bid[Pie: a957, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a76, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 65
+  Turn 1: Party 1       (Offer: Bid[Pie: a952, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a45, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 66
+  Turn 1: Party 1       (Offer: Bid[Pie: a919, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a46, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 67
+  Turn 1: Party 1       (Offer: Bid[Pie: a944, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a90, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 68
+  Turn 1: Party 1       (Offer: Bid[Pie: a916, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a87, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 69
+  Turn 1: Party 1       (Offer: Bid[Pie: a906, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a85, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 70
+  Turn 1: Party 1       (Offer: Bid[Pie: a917, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a84, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 71
+  Turn 1: Party 1       (Offer: Bid[Pie: a936, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a34, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 72
+  Turn 1: Party 1       (Offer: Bid[Pie: a932, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a87, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 73
+  Turn 1: Party 1       (Offer: Bid[Pie: a969, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a99, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 74
+  Turn 1: Party 1       (Offer: Bid[Pie: a952, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a51, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 75
+  Turn 1: Party 1       (Offer: Bid[Pie: a926, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a24, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 76
+  Turn 1: Party 1       (Offer: Bid[Pie: a973, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a47, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 77
+  Turn 1: Party 1       (Offer: Bid[Pie: a909, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a52, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 78
+  Turn 1: Party 1       (Offer: Bid[Pie: a947, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a14, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 79
+  Turn 1: Party 1       (Offer: Bid[Pie: a974, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a98, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 80
+  Turn 1: Party 1       (Offer: Bid[Pie: a934, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a81, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 81
+  Turn 1: Party 1       (Offer: Bid[Pie: a962, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a99, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 82
+  Turn 1: Party 1       (Offer: Bid[Pie: a932, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a23, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 83
+  Turn 1: Party 1       (Offer: Bid[Pie: a930, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a18, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 84
+  Turn 1: Party 1       (Offer: Bid[Pie: a991, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a4, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 85
+  Turn 1: Party 1       (Offer: Bid[Pie: a960, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a63, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 86
+  Turn 1: Party 1       (Offer: Bid[Pie: a952, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a76, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 87
+  Turn 1: Party 1       (Offer: Bid[Pie: a965, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a85, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 88
+  Turn 1: Party 1       (Offer: Bid[Pie: a910, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a64, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 89
+  Turn 1: Party 1       (Offer: Bid[Pie: a941, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a23, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 90
+  Turn 1: Party 1       (Offer: Bid[Pie: a983, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a53, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 91
+  Turn 1: Party 1       (Offer: Bid[Pie: a982, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a23, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 92
+  Turn 1: Party 1       (Offer: Bid[Pie: a940, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a34, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 93
+  Turn 1: Party 1       (Offer: Bid[Pie: a921, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a98, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 94
+  Turn 1: Party 1       (Offer: Bid[Pie: a923, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a26, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 95
+  Turn 1: Party 1       (Offer: Bid[Pie: a961, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a38, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 96
+  Turn 1: Party 1       (Offer: Bid[Pie: a905, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a98, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 97
+  Turn 1: Party 1       (Offer: Bid[Pie: a985, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a27, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 98
+  Turn 1: Party 1       (Offer: Bid[Pie: a996, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a66, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 99
+  Turn 1: Party 1       (Offer: Bid[Pie: a903, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a81, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 100
+  Turn 1: Party 1       (Offer: Bid[Pie: a973, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a99, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 101
+  Turn 1: Party 1       (Offer: Bid[Pie: a961, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a12, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 102
+  Turn 1: Party 1       (Offer: Bid[Pie: a902, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a70, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 103
+  Turn 1: Party 1       (Offer: Bid[Pie: a920, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a85, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 104
+  Turn 1: Party 1       (Offer: Bid[Pie: a983, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a27, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 105
+  Turn 1: Party 1       (Offer: Bid[Pie: a968, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a0, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 106
+  Turn 1: Party 1       (Offer: Bid[Pie: a992, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a76, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 107
+  Turn 1: Party 1       (Offer: Bid[Pie: a920, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a20, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 108
+  Turn 1: Party 1       (Offer: Bid[Pie: a978, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a27, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 109
+  Turn 1: Party 1       (Offer: Bid[Pie: a992, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a34, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 110
+  Turn 1: Party 1       (Offer: Bid[Pie: a957, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a10, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 111
+  Turn 1: Party 1       (Offer: Bid[Pie: a908, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a59, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 112
+  Turn 1: Party 1       (Offer: Bid[Pie: a980, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a89, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 113
+  Turn 1: Party 1       (Offer: Bid[Pie: a937, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a5, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 114
+  Turn 1: Party 1       (Offer: Bid[Pie: a956, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a2, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 115
+  Turn 1: Party 1       (Offer: Bid[Pie: a950, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a85, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 116
+  Turn 1: Party 1       (Offer: Bid[Pie: a922, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a48, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 117
+  Turn 1: Party 1       (Offer: Bid[Pie: a990, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a8, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 118
+  Turn 1: Party 1       (Offer: Bid[Pie: a997, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a83, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 119
+  Turn 1: Party 1       (Offer: Bid[Pie: a949, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a100, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 120
+  Turn 1: Party 1       (Offer: Bid[Pie: a950, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a96, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 121
+  Turn 1: Party 1       (Offer: Bid[Pie: a937, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a25, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 122
+  Turn 1: Party 1       (Offer: Bid[Pie: a998, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a57, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 123
+  Turn 1: Party 1       (Offer: Bid[Pie: a992, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a47, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 124
+  Turn 1: Party 1       (Offer: Bid[Pie: a903, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a60, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 125
+  Turn 1: Party 1       (Offer: Bid[Pie: a900, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a33, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 126
+  Turn 1: Party 1       (Offer: Bid[Pie: a982, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a39, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 127
+  Turn 1: Party 1       (Offer: Bid[Pie: a912, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a32, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 128
+  Turn 1: Party 1       (Offer: Bid[Pie: a960, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a50, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 129
+  Turn 1: Party 1       (Offer: Bid[Pie: a928, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a62, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 130
+  Turn 1: Party 1       (Offer: Bid[Pie: a920, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a25, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 131
+  Turn 1: Party 1       (Offer: Bid[Pie: a989, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a30, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 132
+  Turn 1: Party 1       (Offer: Bid[Pie: a941, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a56, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 133
+  Turn 1: Party 1       (Offer: Bid[Pie: a932, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a56, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 134
+  Turn 1: Party 1       (Offer: Bid[Pie: a967, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a86, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 135
+  Turn 1: Party 1       (Offer: Bid[Pie: a942, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a69, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 136
+  Turn 1: Party 1       (Offer: Bid[Pie: a926, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a21, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 137
+  Turn 1: Party 1       (Offer: Bid[Pie: a925, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a11, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 138
+  Turn 1: Party 1       (Offer: Bid[Pie: a970, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a69, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 139
+  Turn 1: Party 1       (Offer: Bid[Pie: a961, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a64, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 140
+  Turn 1: Party 1       (Offer: Bid[Pie: a959, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a35, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 141
+  Turn 1: Party 1       (Offer: Bid[Pie: a954, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a36, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 142
+  Turn 1: Party 1       (Offer: Bid[Pie: a964, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a5, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 143
+  Turn 1: Party 1       (Offer: Bid[Pie: a911, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a5, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 144
+  Turn 1: Party 1       (Offer: Bid[Pie: a981, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a80, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 145
+  Turn 1: Party 1       (Offer: Bid[Pie: a945, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a68, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 146
+  Turn 1: Party 1       (Offer: Bid[Pie: a929, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a50, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 147
+  Turn 1: Party 1       (Offer: Bid[Pie: a942, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a88, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 148
+  Turn 1: Party 1       (Offer: Bid[Pie: a984, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a91, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 149
+  Turn 1: Party 1       (Offer: Bid[Pie: a970, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a18, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 150
+  Turn 1: Party 1       (Offer: Bid[Pie: a967, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a38, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 151
+  Turn 1: Party 1       (Offer: Bid[Pie: a956, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a62, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 152
+  Turn 1: Party 1       (Offer: Bid[Pie: a946, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a94, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 153
+  Turn 1: Party 1       (Offer: Bid[Pie: a982, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a93, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 154
+  Turn 1: Party 1       (Offer: Bid[Pie: a968, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a49, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 155
+  Turn 1: Party 1       (Offer: Bid[Pie: a967, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a37, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 156
+  Turn 1: Party 1       (Offer: Bid[Pie: a956, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a33, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 157
+  Turn 1: Party 1       (Offer: Bid[Pie: a941, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a60, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 158
+  Turn 1: Party 1       (Offer: Bid[Pie: a995, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a96, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 159
+  Turn 1: Party 1       (Offer: Bid[Pie: a976, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a19, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 160
+  Turn 1: Party 1       (Offer: Bid[Pie: a914, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a56, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 161
+  Turn 1: Party 1       (Offer: Bid[Pie: a971, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a67, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 162
+  Turn 1: Party 1       (Offer: Bid[Pie: a931, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a10, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 163
+  Turn 1: Party 1       (Offer: Bid[Pie: a943, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a59, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 164
+  Turn 1: Party 1       (Offer: Bid[Pie: a912, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a91, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 165
+  Turn 1: Party 1       (Offer: Bid[Pie: a973, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a13, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 166
+  Turn 1: Party 1       (Offer: Bid[Pie: a985, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a17, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 167
+  Turn 1: Party 1       (Offer: Bid[Pie: a988, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a7, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 168
+  Turn 1: Party 1       (Offer: Bid[Pie: a998, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a77, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 169
+  Turn 1: Party 1       (Offer: Bid[Pie: a984, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a76, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 170
+  Turn 1: Party 1       (Offer: Bid[Pie: a951, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a84, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 45 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 171
+  Turn 1: Party 1       (Offer: Bid[Pie: a904, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a45, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 172
+  Turn 1: Party 1       (Offer: Bid[Pie: a989, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a34, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 173
+  Turn 1: Party 1       (Offer: Bid[Pie: a990, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a19, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 174
+  Turn 1: Party 1       (Offer: Bid[Pie: a955, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a20, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 175
+  Turn 1: Party 1       (Offer: Bid[Pie: a983, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a7, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 176
+  Turn 1: Party 1       (Offer: Bid[Pie: a974, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a7, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.71, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 177
+  Turn 1: Party 1       (Offer: Bid[Pie: a905, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a37, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.12, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 178
+  Turn 1: Party 1       (Offer: Bid[Pie: a911, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a63, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 179
+  Turn 1: Party 1       (Offer: Bid[Pie: a966, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a35, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 30 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 30 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Round 180
+  Turn 1: Party 1       (Offer: Bid[Pie: a945, ])
+  Turn 2: Party 2       (Offer: Bid[Pie: a94, ])
+  Turn 3: Party 3       (Offer: Bid[Price: $3.47, Delivery: 20 days, Payment: Upon delivery, Returns: Full price, ])
+  Turn 4: Party 4       (Offer: Bid[Price: $4.37, Delivery: 45 days, Payment: 30 days after delivery, Returns: 5% spoilage allowed, ])
+Deadline reached: Deadline:180rounds
+No agreement found.
+Finished negotiation session in 2.956s
+Error: could not log session details

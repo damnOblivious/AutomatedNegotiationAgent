@@ -1,6 +1,5 @@
 package multipartyexample;
 
-
 import java.util.Random;
 import java.util.ArrayList;
 import java.util.List;
@@ -29,6 +28,7 @@ public class Groupn extends AbstractNegotiationParty {
 
 	private int timeSteps = 0;
 	private int opponentCount = 0;
+	private int currentSender = -1;
 	private double discountFactor = 0;
 	private double minimumBidUtility = 0.0;
 	private Bid[] opponentBids = new Bid[100];
@@ -67,12 +67,10 @@ public class Groupn extends AbstractNegotiationParty {
 			Bid myBid = ((Offer) action).getBid();
 			double myOfferedUtil = getUtility(myBid);
 
-
-			for(int i=1; i<=opponentCount; ++i) {
-				if(opponentBids[i] == null) continue;
-				double offeredUtilFromOpponent = getUtility(opponentBids[i]);
+			if(currentSender > -1) {
+				double offeredUtilFromOpponent = getUtility(opponentBids[currentSender]);
 				if (isAcceptable(offeredUtilFromOpponent, myOfferedUtil,timeSteps))   //TODO
-					action = new Accept();
+				action = new Accept();
 			}
 
 		} catch (Exception e) {
@@ -97,8 +95,10 @@ public class Groupn extends AbstractNegotiationParty {
 		super.receiveMessage(sender, action);
 		if(sender != null) {
 			int senderId = Integer.parseInt(sender.toString().split(" ", 2)[1]);
-			if (action instanceof Offer)
+			if (action instanceof Offer) {
+				currentSender = senderId;
 				opponentBids[senderId] = ((Offer) action).getBid();
+			}
 			else
 				opponentBids[senderId] = null;
 		}
@@ -163,27 +163,6 @@ public class Groupn extends AbstractNegotiationParty {
 					values.put(lIssue.getNumber(),
 							lIssueDiscrete.getValue(optionIndex));
 					break;
-				case REAL:
-					IssueReal lIssueReal = (IssueReal) lIssue;
-					int optionInd = randomnr.nextInt(lIssueReal
-							.getNumberOfDiscretizationSteps() - 1);
-					values.put(
-							lIssueReal.getNumber(),
-							new ValueReal(lIssueReal.getLowerBound()
-									+ (lIssueReal.getUpperBound() - lIssueReal
-											.getLowerBound())
-									* (double) (optionInd)
-									/ (double) (lIssueReal
-											.getNumberOfDiscretizationSteps())));
-					break;
-				case INTEGER:
-					IssueInteger lIssueInteger = (IssueInteger) lIssue;
-					int optionIndex2 = lIssueInteger.getLowerBound()
-							+ randomnr.nextInt(lIssueInteger.getUpperBound()
-									- lIssueInteger.getLowerBound());
-					values.put(lIssueInteger.getNumber(), new ValueInteger(
-							optionIndex2));
-					break;
 				default:
 					throw new Exception("issue type " + lIssue.getType()
 							+ " not supported by SimpleAgent2");
@@ -191,10 +170,9 @@ public class Groupn extends AbstractNegotiationParty {
 			}
 			bid = new Bid(utilitySpace.getDomain(), values);
 
-			if (getUtility(bid)>bestUtil)
-				{
-					bestUtil=getUtility(bid);
-					bestBid=bid;
+			if (getUtility(bid)>bestUtil) {
+					bestUtil = getUtility(bid);
+					bestBid = bid;
 				}
 		} while (getUtility(bestBid) < currentMinimumBidUtility);
 
@@ -221,6 +199,5 @@ public class Groupn extends AbstractNegotiationParty {
 			return 1;
 		return 0;
 	}
-
 
 }

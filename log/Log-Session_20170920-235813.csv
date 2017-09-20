@@ -1,0 +1,21 @@
+Starting negotiation session.
+Round 1
+  Turn 1: Party 1       (Offer: Bid[Maker: Apple, Screen Size: 5.5, Color: Black, Carrier: RelianceJio, OS: iOS,  Budget: 15000 INR, ])
+  Turn 2: Party 2       (Offer: Bid[Maker: Nokia, Screen Size: 5.5, Color: Silver, Carrier: Airtel, OS: Android,  Budget: 15000 INR, ])
+Round 2
+  Turn 1: Party 1       (Accept)
+Found an agreement: Bid[Maker: Nokia, Screen Size: 5.5, Color: Silver, Carrier: Airtel, OS: Android,  Budget: 15000 INR, ]
+Finished negotiation session in 0.036s
+Time (s):		0.03580363
+Rounds:		2
+Agreement?:		Yes
+Discounted?:		Yes
+2
+Min. utility:		0.90715
+Max. utility:		0.99943
+Distance to pareto:	0.00000
+Distance to Nash:	0.00000
+Social welfare:		1.90659
+Agent utility:		0.90715 (Party 1)
+Agent utility:		0.99943 (Party 2)
+
